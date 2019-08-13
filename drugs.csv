@@ -1,0 +1,16 @@
+item,A_vida,A_binge,Cig_vida,Cig_30,Med_vida,ili_vida,ili_30,cat
+12 a 17 anos,34.3,5,6.3,2.4,4,4,1.3,idade
+18 a 24 anos,72.1,20.5,26,12.4,6.6,14.3,3.9,idade
+25 a 34 anos,74.5,23.3,31.7,13,10.4,15.5,2.7,idade
+35 a 44 anos,71.9,18.8,34.9,14.5,9.3,11.1,1.2,idade
+45 a 54 anos,70.1,15.7,46.3,19.5,9.8,7.5,0.7,idade
+55 a 65 anos,66.3,11.3,51.5,17.8,8.4,4.2,0.2,idade
+Sem ou fundamental incompleto,69.5,15.9,47.8,21,8.1,8.2,1.2,escolaridade
+Fundamental completo ou medio incompleto,70.1,19,38,17.1,8.9,11.6,2,escolaridade
+Medio completo ou superior incompleto,71.9,19.4,29.8,11.1,9.5,10.9,1.8,escolaridade
+Superior completo ou mais,76.5,20.4,32.9,9.4,10.9,16.6,2.4,escolaridade
+Norte,63,22.2,33.2,11.3,4.6,8.6,0.9,regiao
+Nordeste,65.4,27.9,28.2,10.5,8.3,8.3,1.2,regiao
+Sudeste,66.9,32.1,34.9,14.6,9.6,11.4,2.4,regiao
+Sul,65.1,32.5,37.5,17.3,7.5,9.3,1,regiao
+Centro Oeste,73.2,30.5,37.1,14.4,8,10.2,1.7,regiao

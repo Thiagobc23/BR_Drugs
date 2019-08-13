@@ -1,0 +1,14 @@
+drug,question,no_risk,low_moderate,high_risk
+Tabaco,1 ou mais macos por dia,0.3,10.7,87.1
+Alcool,Bebe 4 ou 5 doses quase todos os dias,0.3,15,82.7
+Alcool,Bebe 5 ou mais doses 1 ou 2 vezes por semana,1.9,46.9,48.9
+Medicamentos,Esteroide anabolizante 1 ou 2 vezes na vida,2.6,28.9,56.1
+Medicamentos,Esteroide anabolizante 1 ou 2 vezes por semana,0.1,8.3,79.7
+Droga ilicita,LSD 1 ou 2 vezes na vida,2.1,21,60.3
+Droga ilicita,LSD 1 ou 2 vezes por semana,0.2,5.1,78.9
+Droga ilicita,Maconha 1 vez no mes,5,31.7,57.2
+Droga ilicita,maconha 1 ou 2 vezes na semana,1.9,18.2,74.2
+Droga ilicita,Cocaina 1 vez no mes,0.7,17.3,75.4
+Droga ilicita,Cocaina 1 ou 2 vezes na semana,0.2,4.9,88.6
+Droga ilicita,"Crack, merla, oxi ou pasta base 1 vez por mes",0.5,7.7,85.6
+Droga ilicita,"Crack, merla, oxi ou pasta base 1 ou 2 vezes por semana",0.1,2.1,91.6
